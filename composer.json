@@ -30,7 +30,8 @@
         "jlorente/yii2-widget-remainingcharacters": "*",
         "kartik-v/yii2-date-range": "dev-master",
         "igorescobar/jquery-mask-plugin": "^1.14",
-        "kartik-v/yii2-datecontrol": "@dev"
+        "kartik-v/yii2-datecontrol": "@dev",
+         "yiisoft/yii2-app-basic": "2.0.*"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
